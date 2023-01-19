@@ -1,0 +1,117 @@
+.topnav {
+    background-color: rgb(10, 16, 67);
+    overflow: hidden;
+    background-size: 100px 500px;
+    padding: 0.2% 1%;
+  }
+
+.active{
+  color:#ffffff;
+    text-align: center;
+    padding: 14px 0.1px;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 1px 27px;
+    display:inline-block; margin-left:5px;
+}
+
+.button{
+  background-color: #ffffff;
+  border: none;
+  color: rgb(15, 102, 214);
+  padding: 10px 9px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 7px 0.1px;
+  cursor: pointer;
+  font-family: Arial bold, Helvetica, sans-serif;
+  border-radius: 4px;
+  margin-right: 100px;
+}
+
+.phone{
+  color:blue;
+  display:inline-block; margin-left:60px;
+}
+
+.social-icon{
+  display: inline-block; text-align: right; width: 43%;
+}
+.social-icon1{
+  color: #ffffff;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.social-icon2{
+  color: #ffffff;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.social-icon3{
+  color: #ffffff;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.social-icon4{
+  color: #ffffff;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.social-icon5{
+  color: #ffffff;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.topbar{
+  background-color: rgb(199, 219, 202);
+  padding: 0.1% 1%;
+}
+
+.sanmark{
+   width:235px; 
+   height:46px;
+   margin: 20px;
+}
+
+.nav{
+  display: inline-block; text-align: right; width: 35%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.home{
+  color: black;
+  text-decoration: none;
+}
+
+.service{
+  color: black;
+  text-decoration: none;
+}
+
+.profile{
+  color: black;
+  text-decoration: none;
+}
+
+.successtories{
+  color: black;
+  text-decoration: none;
+}
+
+.testimonials{
+  color: black;
+  text-decoration: none;
+}
+
+.contact{
+  color: black;
+  text-decoration: none;
+}
